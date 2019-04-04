@@ -1,3 +1,3 @@
 # KMeans
-just another repository
+just another repository.
 i love python ,and you ?
