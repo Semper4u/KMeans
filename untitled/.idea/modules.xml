@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/py3.iml" filepath="$PROJECT_DIR$/.idea/py3.iml" />
+      <module fileurl="file://D:/professional/pycharm project/pytorch/.idea/pytorch.iml" filepath="D:/professional/pycharm project/pytorch/.idea/pytorch.iml" />
+      <module fileurl="file://D:/professional/pyproject/tensorflow1/.idea/tensorflow1.iml" filepath="D:/professional/pyproject/tensorflow1/.idea/tensorflow1.iml" />
+    </modules>
+  </component>
+</project>
