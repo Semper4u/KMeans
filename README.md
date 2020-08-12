@@ -6,3 +6,5 @@ just another repository.
 - network.py是用TensorFlow1.14编写的自定义卷积神经网络对mnist进行分类训练，最优达到98%的测试准确率；
 
 - untitled文件夹下是OpenCV不同函数的练习；
+
+- SSD文件夹下是用ssd算法训练pasval_voc数据集进行目标检测；
